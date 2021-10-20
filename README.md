@@ -24,4 +24,7 @@ Methods followed :
        * for training i separated the dataset using train test split.
        * introduced a pipeline using different regression models.
 ![alt text](1.PNG)
-       
+       * calculated the r2 score and mead square error score
+![alt text](2.PNG)
+       * based on the score I have selected the XGBoost Regressor model
+       * using GridSearchCV i did the parameter tuning and again pass the training set to the XGBRegressor model
