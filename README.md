@@ -23,5 +23,5 @@ Methods followed :
 ### 4. Training
        * for training i separated the dataset using train test split.
        * introduced a pipeline using different regression models.
-![alt text](static/1.PNG)
+![alt text](1.PNG)
        
