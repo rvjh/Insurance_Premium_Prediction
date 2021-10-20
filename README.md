@@ -15,4 +15,10 @@ Methods followed :
        * In this step i checked what are the colums present and their datatypes.
        * unique values present
        * converted the categorical features into numerical by using pandas get_dummies
-### 3. 
+### 3. Feature selection
+       * here I converted the data using Standard Scaler
+       * also separated the features and the labels
+       * checked the multiclinearity conditions using statsmodels [VIF](https://www.investopedia.com/terms/v/variance-inflation-factor.asp).
+       * also generated a correlation heatmap to see the corelations between the features.
+       
+       
