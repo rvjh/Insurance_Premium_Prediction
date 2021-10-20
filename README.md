@@ -11,5 +11,8 @@ Methods followed :
 ### 1. Dataset loading and preprocessing of dataset: 
         * At the begining I loaded some important libraries for the preprocessing like pandas, matplotlib, seaborn etc.
         * Next checked the null values if present.
-     
-
+### 2. EDA
+       * In this step i checked what are the colums present and their datatypes.
+       * unique values present
+       * converted the categorical features into numerical by using pandas get_dummies
+### 3. 
