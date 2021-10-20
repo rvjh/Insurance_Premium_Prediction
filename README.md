@@ -18,7 +18,10 @@ Methods followed :
 ### 3. Feature selection
        * here I converted the data using Standard Scaler
        * also separated the features and the labels
-       * checked the multiclinearity conditions using statsmodels [VIF](https://www.investopedia.com/terms/v/variance-inflation-factor.asp).
+       * checked the multiclinearity conditions using statsmodels VIF.
        * also generated a correlation heatmap to see the corelations between the features.
-       
+### 4. Training
+       * for training i separated the dataset using train test split.
+       * introduced a pipeline using different regression models.
+       ![alt text](static/1.PNG)
        
